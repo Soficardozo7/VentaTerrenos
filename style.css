@@ -1,0 +1,61 @@
+body {
+    width: fit-content;
+    height: fit-content;
+    background-image: url(img_campo.jpg.jpg);
+    background-size: cover;
+}
+
+.cuerpo {
+    margin: 60px;
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+.titulo{
+    background-color: #364552;
+    color: beige;
+    font-family: "Cinzel Decorative" , sans-serif ;
+    text-align: center;
+    margin: 0px;
+    padding: 40px;
+    font-size: 48px;
+    font-weight: 400;
+}
+.subtitulo{
+    background-color: #364552;
+    color: beige;
+    font-family: "Cinzel Decorative" , sans-serif ;
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+
+.descripcion{
+    font-family: "Nunito" , sans-serif ;
+    text-align: justify;
+    text-shadow: 3px 3px 5px gray;
+    font-size: 30px;
+}
+.caracteristicas{
+    font-family: "Nunito" , sans-serif ;
+    margin: 30px;
+    font-size: 30px;
+}
+
+.mapa{
+    padding: 40px;
+}
+.todo{
+    margin: 0 auto;
+}
+
+.datos img{
+    border-radius: 10px;
+    width: 400px;
+}
+
